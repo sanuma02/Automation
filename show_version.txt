@@ -1,0 +1,30 @@
+Switch# show version
+Cisco Internetwork Operating System Software
+IOS (tm) C2950 Software (C2950-C3H2S-M), Version 12.0(5.3)WC(1), MAINTENANCE INTERIM SOFTWARE
+Copyright (c) 1986-2001 by cisco Systems, Inc.
+Compiled Mon 30-Apr-01 07:56 by devgoyal
+Image text-base: 0x80010000, data-base: 0x8031A000
+
+ROM: Bootstrap program is CALHOUN boot loader
+
+Switch uptime is 10 minutes
+System returned to ROM by power-on
+System image file is "flash:c2950-c3h2s-mz.120-5.3.WC.1.bin"
+
+cisco WS-C2950-12 (RC32300) processor (revision B0) with 22260K bytes of memory.
+Processor board ID FAB0534Q2CW
+Last reset from system-reset
+
+Processor is running Enterprise Edition Software
+Cluster command switch capable
+Cluster member switch capable
+12 FastEthernet/IEEE 802.3 interface(s)
+
+32K bytes of flash-simulated non-volatile configuration memory.
+Base ethernet MAC Address: XX:XX:XX:XX:XX:XX
+Motherboard assembly number: 73-5732-06
+Motherboard serial number: FBA0&31A3YT
+Model revision number: B0
+Model number: WS-C2950-12
+System serial number: FBA0534Q3CW
+Configuration register is 0xF
