@@ -51,7 +51,7 @@ def parse_spanning():
 		if bridge.group(3) == root.group(3):
 			print("This SW is the Root :)")
 		else:
-			print(f"This Sw is not the root, the root is {root.group(3)}")
+			print(f"This SW is not the root, the root is {root.group(3)}")
 
 def parse_version():
 	model_dummy_patter = re.compile(r"(Model number:)(\s*)(.*)")
